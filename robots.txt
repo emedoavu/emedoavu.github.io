@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emedoavu.github.io/BoM/sitemap_index.txt
+Sitemap: https://emedoavu.github.io/Ovk/sitemap_index.txt
+Sitemap: https://emedoavu.github.io/WjH/sitemap_index.txt
+Sitemap: https://emedoavu.github.io/jOY/sitemap_index.txt
